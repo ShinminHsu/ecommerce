@@ -32,3 +32,7 @@ https://ogb.stanford.edu/docs/nodeprop/
 - `obgn_products-embeddings.ipynb`: Use Node2vec to capture node embeddings
 - `obgn_products--MLP.ipynb`: Build an MLP model
 - `GCN.ipynb`: Build GCN models
+
+
+# Reference
+Recommended Course: http://web.stanford.edu/class/cs224w/
